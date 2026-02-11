@@ -1,0 +1,31 @@
+.span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.hero{
+    font-family: "Gloock";
+    letter-spacing: 1px;
+}
+.adder{
+    font-family: "Red Hat Display";
+    font-size: 20px;
+}
+
+body{ 
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+}
+#add_button{
+    background-color: rgb(123, 199, 199);
+    border-radius: 10px;
+}
+#add_button:hover{
+    transform: translateY(-1px);
+}
+.submit{
+    font-size: 3px;
+    font-family: "Red Hat Display";
+}
