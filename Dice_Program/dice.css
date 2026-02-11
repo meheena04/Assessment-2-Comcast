@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+#container{
+    font-family: Helvetica;
+    text-align: center;
+}
+.hero-title{
+    font-family: Verdana;
+}
+button{
+    background-color: rgb(240, 197, 126);
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+}
